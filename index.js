@@ -1,2 +1,2 @@
 // write your code below!
-happyHolidays() => "Happy holidays!"
+function happyHolidays() => "Happy holidays!"
